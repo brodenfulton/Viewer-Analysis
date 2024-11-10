@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2024-10-23 09:37:43",
+    "facial_metrics": {
+      "mouth_openness": 0.9402073805459127,
+      "movement": 741.1391362846991,
+      "eye_openness": 1.6897104408721786,
+      "blink_rate": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  }
+]

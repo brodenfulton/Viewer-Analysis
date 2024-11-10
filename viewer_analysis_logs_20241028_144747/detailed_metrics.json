@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2024-10-28 14:47:50",
+    "metrics": {
+      "eye_openness": 1.4998788097904616,
+      "blink_rate": 0,
+      "mouth_openness": 0.8741406661263041,
+      "mouth_movement": 0,
+      "head_movement": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:47:52",
+    "metrics": {
+      "eye_openness": 1.421390179414153,
+      "blink_rate": 0,
+      "mouth_openness": 0.9510858537590626,
+      "mouth_movement": 0.07694518763275848,
+      "head_movement": 14077.113821780433
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:47:54",
+    "metrics": {
+      "eye_openness": 1.4454312726525678,
+      "blink_rate": 0,
+      "mouth_openness": 0.9358117020052935,
+      "mouth_movement": 0.015274151753769116,
+      "head_movement": 3144.1729191822856
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:47:56",
+    "metrics": {
+      "eye_openness": 1.416819536225877,
+      "blink_rate": 0,
+      "mouth_openness": 1.0532852334472629,
+      "mouth_movement": 0.11747353144196937,
+      "head_movement": 4938.581712544405
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:47:58",
+    "metrics": {
+      "eye_openness": 1.4191631514249043,
+      "blink_rate": 0,
+      "mouth_openness": 0.9847371685222885,
+      "mouth_movement": 0.06854806492497434,
+      "head_movement": 2238.1275531335464
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:48:00",
+    "metrics": {
+      "eye_openness": 1.4566905405709627,
+      "blink_rate": 0,
+      "mouth_openness": 0.8462127677166715,
+      "mouth_movement": 0.138524400805617,
+      "head_movement": 6251.604641931815
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:48:02",
+    "metrics": {
+      "eye_openness": 1.425406073943916,
+      "blink_rate": 0,
+      "mouth_openness": 0.8637189577425018,
+      "mouth_movement": 0.017506190025830315,
+      "head_movement": 4489.356512212087
+    }
+  },
+  {
+    "timestamp": "2024-10-28 14:48:04",
+    "metrics": {
+      "eye_openness": 1.4248677146774544,
+      "blink_rate": 0,
+      "mouth_openness": 0.8906227271728151,
+      "mouth_movement": 0.02690376943031325,
+      "head_movement": 3215.3983464910852
+    }
+  }
+]

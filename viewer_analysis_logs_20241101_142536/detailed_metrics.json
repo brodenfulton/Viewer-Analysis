@@ -1,0 +1,1586 @@
+[
+  {
+    "timestamp": "2024-11-01 14:25:38",
+    "metrics": {
+      "eye_openness": 1.51531244055247,
+      "blink_rate": 0,
+      "mouth_openness": 0.9592163747431438,
+      "mouth_movement": 0,
+      "head_movement": 2717.017006014741,
+      "eye_movement_x": 0.062031693104830934,
+      "eye_movement_y": -0.09467366625049572
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:40",
+    "metrics": {
+      "eye_openness": 1.500065086829642,
+      "blink_rate": 0,
+      "mouth_openness": 0.8683201930764235,
+      "mouth_movement": 0.09089618166672031,
+      "head_movement": 2304.8497632028516,
+      "eye_movement_x": 0.034648428363210616,
+      "eye_movement_y": -0.07938669887747933
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:42",
+    "metrics": {
+      "eye_openness": 1.5001875286741815,
+      "blink_rate": 0,
+      "mouth_openness": 0.8950909248512812,
+      "mouth_movement": 0.02677073177485767,
+      "head_movement": 2826.2316267105343,
+      "eye_movement_x": 0.004906172609847004,
+      "eye_movement_y": -0.05274439291313103
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:44",
+    "metrics": {
+      "eye_openness": 1.496530611866767,
+      "blink_rate": 0,
+      "mouth_openness": 0.9029697526999391,
+      "mouth_movement": 0.007878827848657899,
+      "head_movement": 621.4906843576724,
+      "eye_movement_x": -0.017521047453205114,
+      "eye_movement_y": -0.04598918233224894
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:46",
+    "metrics": {
+      "eye_openness": 1.50169706964215,
+      "blink_rate": 0,
+      "mouth_openness": 0.9198734178326089,
+      "mouth_movement": 0.01690366513266983,
+      "head_movement": 1041.3264766031523,
+      "eye_movement_x": 0.016006689028679758,
+      "eye_movement_y": -0.05206462780981291
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:48",
+    "metrics": {
+      "eye_openness": 1.5254881909666684,
+      "blink_rate": 0,
+      "mouth_openness": 0.8962135691845877,
+      "mouth_movement": 0.023659848648021176,
+      "head_movement": 534.1904555877879,
+      "eye_movement_x": 0.004958528895445339,
+      "eye_movement_y": -0.16304021245641953
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:50",
+    "metrics": {
+      "eye_openness": 1.5016480296390875,
+      "blink_rate": 0,
+      "mouth_openness": 0.8856010711517978,
+      "mouth_movement": 0.010612498032789963,
+      "head_movement": 418.34805330640114,
+      "eye_movement_x": -0.03479336749843422,
+      "eye_movement_y": -0.026006841129882528
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:52",
+    "metrics": {
+      "eye_openness": 1.5103502356001868,
+      "blink_rate": 0,
+      "mouth_openness": 0.8798772399607901,
+      "mouth_movement": 0.005723831191007611,
+      "head_movement": 502.7540595700235,
+      "eye_movement_x": -0.003551700919602835,
+      "eye_movement_y": -0.0790438884282481
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:54",
+    "metrics": {
+      "eye_openness": 1.5041104852852418,
+      "blink_rate": 0,
+      "mouth_openness": 0.8908763320508273,
+      "mouth_movement": 0.010999092090037133,
+      "head_movement": 1114.4758476851418,
+      "eye_movement_x": -0.0800140794224102,
+      "eye_movement_y": -0.5023715028566216
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:56",
+    "metrics": {
+      "eye_openness": 1.4939299117818017,
+      "blink_rate": 0,
+      "mouth_openness": 0.8650349804925827,
+      "mouth_movement": 0.02584135155824463,
+      "head_movement": 410.2042422361116,
+      "eye_movement_x": -0.08751965997564366,
+      "eye_movement_y": -0.16113350808946325
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:25:58",
+    "metrics": {
+      "eye_openness": 1.4901456568724758,
+      "blink_rate": 0,
+      "mouth_openness": 0.8653676688645472,
+      "mouth_movement": 0.00033268837196454015,
+      "head_movement": 355.12245125577016,
+      "eye_movement_x": -0.07134707050877824,
+      "eye_movement_y": -0.1435307782058194
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:00",
+    "metrics": {
+      "eye_openness": 1.5137081961989074,
+      "blink_rate": 0,
+      "mouth_openness": 0.8601872822393366,
+      "mouth_movement": 0.005180386625210587,
+      "head_movement": 414.52262838390635,
+      "eye_movement_x": -0.051068215577741126,
+      "eye_movement_y": -0.17673562774127094
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:02",
+    "metrics": {
+      "eye_openness": 1.5418486270125265,
+      "blink_rate": 0,
+      "mouth_openness": 0.8938313774286978,
+      "mouth_movement": 0.03364409518936118,
+      "head_movement": 758.967878233677,
+      "eye_movement_x": 0.03730561023524294,
+      "eye_movement_y": -0.17631611700971853
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:04",
+    "metrics": {
+      "eye_openness": 1.5124151694744807,
+      "blink_rate": 0,
+      "mouth_openness": 0.8933331602829802,
+      "mouth_movement": 0.0004982171457176277,
+      "head_movement": 721.7700575007656,
+      "eye_movement_x": 0.01021447386851666,
+      "eye_movement_y": -0.16130133214278627
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:06",
+    "metrics": {
+      "eye_openness": 1.5160125788722936,
+      "blink_rate": 0,
+      "mouth_openness": 0.8915964322633381,
+      "mouth_movement": 0.0017367280196420865,
+      "head_movement": 454.1099563528289,
+      "eye_movement_x": -0.008727708229032042,
+      "eye_movement_y": -0.24359384714476617
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:08",
+    "metrics": {
+      "eye_openness": 1.5142852127031479,
+      "blink_rate": 0,
+      "mouth_openness": 0.8913994026499902,
+      "mouth_movement": 0.0001970296133478877,
+      "head_movement": 346.9047905268623,
+      "eye_movement_x": -0.015025550769945686,
+      "eye_movement_y": -0.23784698543320698
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:10",
+    "metrics": {
+      "eye_openness": 1.52992559773246,
+      "blink_rate": 0,
+      "mouth_openness": 0.8997422209136666,
+      "mouth_movement": 0.008342818263676444,
+      "head_movement": 1296.2499905831178,
+      "eye_movement_x": -0.007885319290471005,
+      "eye_movement_y": -0.28943946174508645
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:13",
+    "metrics": {
+      "eye_openness": 1.4980871585614766,
+      "blink_rate": 0,
+      "mouth_openness": 0.9103632750210857,
+      "mouth_movement": 0.010621054107419092,
+      "head_movement": 592.061466662735,
+      "eye_movement_x": 0.0013109159481815328,
+      "eye_movement_y": -0.10701651864612458
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:15",
+    "metrics": {
+      "eye_openness": 1.514149760812768,
+      "blink_rate": 0,
+      "mouth_openness": 0.880612229720361,
+      "mouth_movement": 0.0297510453007247,
+      "head_movement": 571.7516039538367,
+      "eye_movement_x": 0.0035483489045154823,
+      "eye_movement_y": -0.45622477113309634
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:17",
+    "metrics": {
+      "eye_openness": 1.509059678402234,
+      "blink_rate": 0,
+      "mouth_openness": 0.8930609287907733,
+      "mouth_movement": 0.012448699070412239,
+      "head_movement": 634.0396702082978,
+      "eye_movement_x": 0.03086680105541085,
+      "eye_movement_y": -0.08215075491097602
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:19",
+    "metrics": {
+      "eye_openness": 1.50635811723549,
+      "blink_rate": 0,
+      "mouth_openness": 0.8907241435100801,
+      "mouth_movement": 0.0023367852806931433,
+      "head_movement": 465.08357777868,
+      "eye_movement_x": -0.015289758888010421,
+      "eye_movement_y": -0.1784979180151283
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:21",
+    "metrics": {
+      "eye_openness": 1.4967954388086597,
+      "blink_rate": 0,
+      "mouth_openness": 0.9066967582409478,
+      "mouth_movement": 0.01597261473086764,
+      "head_movement": 383.9071452229901,
+      "eye_movement_x": -0.009877966519734027,
+      "eye_movement_y": -0.13697813364146535
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:23",
+    "metrics": {
+      "eye_openness": 1.50365202553133,
+      "blink_rate": 0,
+      "mouth_openness": 0.8758396532971301,
+      "mouth_movement": 0.03085710494381766,
+      "head_movement": 375.25063876749397,
+      "eye_movement_x": 0.016254731493310928,
+      "eye_movement_y": -0.09850728371910968
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:25",
+    "metrics": {
+      "eye_openness": 1.5034865092831038,
+      "blink_rate": 0,
+      "mouth_openness": 0.9024411238025929,
+      "mouth_movement": 0.0266014705054628,
+      "head_movement": 435.32443864455166,
+      "eye_movement_x": 0.002582372702062763,
+      "eye_movement_y": -0.08903152004413203
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:27",
+    "metrics": {
+      "eye_openness": 1.4903159126109138,
+      "blink_rate": 0,
+      "mouth_openness": 0.901722430161224,
+      "mouth_movement": 0.0007186936413688949,
+      "head_movement": 431.3333365382865,
+      "eye_movement_x": 0.00573887169931972,
+      "eye_movement_y": -0.04583670379508322
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:29",
+    "metrics": {
+      "eye_openness": 1.5235723675045858,
+      "blink_rate": 0,
+      "mouth_openness": 0.8853905456657233,
+      "mouth_movement": 0.016331884495500715,
+      "head_movement": 447.1451261083009,
+      "eye_movement_x": 0.05155334490298943,
+      "eye_movement_y": -0.12952963837854056
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:31",
+    "metrics": {
+      "eye_openness": 1.4908560405618076,
+      "blink_rate": 0,
+      "mouth_openness": 0.8809798171455717,
+      "mouth_movement": 0.004410728520151563,
+      "head_movement": 649.3103394759584,
+      "eye_movement_x": -0.013064499323021712,
+      "eye_movement_y": -0.11450983219265327
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:33",
+    "metrics": {
+      "eye_openness": 1.4972455638948037,
+      "blink_rate": 0,
+      "mouth_openness": 0.8769675863380414,
+      "mouth_movement": 0.004012230807530326,
+      "head_movement": 493.7395662480242,
+      "eye_movement_x": -0.010595778247350245,
+      "eye_movement_y": -0.12521866952585634
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:35",
+    "metrics": {
+      "eye_openness": 1.5200281678818965,
+      "blink_rate": 0,
+      "mouth_openness": 0.8916639740361242,
+      "mouth_movement": 0.014696387698082791,
+      "head_movement": 540.6467248496367,
+      "eye_movement_x": 0.0005715983887441157,
+      "eye_movement_y": -0.44766573910966573
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:37",
+    "metrics": {
+      "eye_openness": 1.5122989710228867,
+      "blink_rate": 0,
+      "mouth_openness": 0.892087974613729,
+      "mouth_movement": 0.0004240005776048328,
+      "head_movement": 550.5728009998979,
+      "eye_movement_x": -0.02724283943287514,
+      "eye_movement_y": -0.3588829040897812
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:39",
+    "metrics": {
+      "eye_openness": 1.4965610979951107,
+      "blink_rate": 0,
+      "mouth_openness": 0.9023297503633355,
+      "mouth_movement": 0.010241775749606497,
+      "head_movement": 368.62995365064023,
+      "eye_movement_x": -0.01069316990074764,
+      "eye_movement_y": -0.1377100245786737
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:41",
+    "metrics": {
+      "eye_openness": 1.5076941346254598,
+      "blink_rate": 0,
+      "mouth_openness": 0.9023243154540808,
+      "mouth_movement": 5.434909254753428e-06,
+      "head_movement": 458.72478862507546,
+      "eye_movement_x": -0.02810540283597597,
+      "eye_movement_y": -0.4917246971855137
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:43",
+    "metrics": {
+      "eye_openness": 1.4995567225658109,
+      "blink_rate": 0,
+      "mouth_openness": 0.8815432587849604,
+      "mouth_movement": 0.020781056669120335,
+      "head_movement": 381.81044325706824,
+      "eye_movement_x": -0.025029483867162847,
+      "eye_movement_y": -0.1585049672124353
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:45",
+    "metrics": {
+      "eye_openness": 1.4958286462575308,
+      "blink_rate": 0,
+      "mouth_openness": 0.8915519314008761,
+      "mouth_movement": 0.010008672615915648,
+      "head_movement": 410.07651713622,
+      "eye_movement_x": -0.021177851118862032,
+      "eye_movement_y": -0.1737801125530828
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:47",
+    "metrics": {
+      "eye_openness": 1.5221190708511387,
+      "blink_rate": 0,
+      "mouth_openness": 0.8960121757946359,
+      "mouth_movement": 0.004460244393759805,
+      "head_movement": 479.155590559684,
+      "eye_movement_x": -0.0008692079184211554,
+      "eye_movement_y": -0.4464153162670891
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:49",
+    "metrics": {
+      "eye_openness": 1.4949515733799674,
+      "blink_rate": 0,
+      "mouth_openness": 0.9007970602878212,
+      "mouth_movement": 0.004784884493185371,
+      "head_movement": 373.09228754704225,
+      "eye_movement_x": -0.0270362757936735,
+      "eye_movement_y": -0.1889681105219749
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:52",
+    "metrics": {
+      "eye_openness": 1.5083053256231291,
+      "blink_rate": 0,
+      "mouth_openness": 0.8911578887928034,
+      "mouth_movement": 0.009639171495017806,
+      "head_movement": 427.16543172603394,
+      "eye_movement_x": -0.028787789809441366,
+      "eye_movement_y": -0.4642857436233774
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:54",
+    "metrics": {
+      "eye_openness": 1.4909160895457467,
+      "blink_rate": 0,
+      "mouth_openness": 0.8759953312130199,
+      "mouth_movement": 0.015162557579783575,
+      "head_movement": 544.2194409609205,
+      "eye_movement_x": -0.047196234503239363,
+      "eye_movement_y": -0.20171474748773227
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:56",
+    "metrics": {
+      "eye_openness": 1.5204501912521677,
+      "blink_rate": 0,
+      "mouth_openness": 0.8984485549125374,
+      "mouth_movement": 0.02245322369951752,
+      "head_movement": 477.81408573208984,
+      "eye_movement_x": -0.016566972191285702,
+      "eye_movement_y": -0.5661034519057612
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:26:58",
+    "metrics": {
+      "eye_openness": 1.5059477731050852,
+      "blink_rate": 0,
+      "mouth_openness": 0.8981521057195954,
+      "mouth_movement": 0.00029644919294202765,
+      "head_movement": 428.01408847201486,
+      "eye_movement_x": -0.007603519476255488,
+      "eye_movement_y": -0.3209441156164962
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:00",
+    "metrics": {
+      "eye_openness": 1.5111216439735204,
+      "blink_rate": 0,
+      "mouth_openness": 0.8967008314292972,
+      "mouth_movement": 0.0014512742902981213,
+      "head_movement": 4693.565804748328,
+      "eye_movement_x": -0.0028079805750469275,
+      "eye_movement_y": -0.7810142381930215
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:02",
+    "metrics": {
+      "eye_openness": 1.485673213278187,
+      "blink_rate": 0,
+      "mouth_openness": 0.8977953414378373,
+      "mouth_movement": 0.001094510008540106,
+      "head_movement": 2838.2753721031486,
+      "eye_movement_x": 0.0012057143064174807,
+      "eye_movement_y": -0.16916480806517956
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:04",
+    "metrics": {
+      "eye_openness": 1.5093315490358046,
+      "blink_rate": 0,
+      "mouth_openness": 0.9116281951340229,
+      "mouth_movement": 0.013832853696185587,
+      "head_movement": 1622.9792028974723,
+      "eye_movement_x": 0.007473529264034864,
+      "eye_movement_y": 0.06459713411634811
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:06",
+    "metrics": {
+      "eye_openness": 1.4907829121840037,
+      "blink_rate": 0,
+      "mouth_openness": 0.9214766120396557,
+      "mouth_movement": 0.009848416905632762,
+      "head_movement": 614.2875090643662,
+      "eye_movement_x": -0.0025921360992582927,
+      "eye_movement_y": -1.7100736135532193
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:08",
+    "metrics": {
+      "eye_openness": 1.4877859635578228,
+      "blink_rate": 0,
+      "mouth_openness": 0.916820120462068,
+      "mouth_movement": 0.00465649157758774,
+      "head_movement": 515.4254033215398,
+      "eye_movement_x": -0.0032428653189183034,
+      "eye_movement_y": -0.15526120189859177
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:10",
+    "metrics": {
+      "eye_openness": 1.5119806338549315,
+      "blink_rate": 0,
+      "mouth_openness": 0.8860234098914991,
+      "mouth_movement": 0.030796710570568875,
+      "head_movement": 402.40495654407783,
+      "eye_movement_x": 0.03295772964545994,
+      "eye_movement_y": -0.08933450021096095
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:12",
+    "metrics": {
+      "eye_openness": 1.508549163757846,
+      "blink_rate": 0,
+      "mouth_openness": 0.9001522630265876,
+      "mouth_movement": 0.014128853135088493,
+      "head_movement": 434.07017920712775,
+      "eye_movement_x": -0.011487687027851292,
+      "eye_movement_y": -0.403186417422777
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:14",
+    "metrics": {
+      "eye_openness": 1.509666382267161,
+      "blink_rate": 0,
+      "mouth_openness": 0.8883483211818137,
+      "mouth_movement": 0.011803941844773846,
+      "head_movement": 362.5381877747717,
+      "eye_movement_x": 0.006771080703093653,
+      "eye_movement_y": -0.12530964445838583
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:16",
+    "metrics": {
+      "eye_openness": 1.5056217416478903,
+      "blink_rate": 0,
+      "mouth_openness": 0.9136943315632191,
+      "mouth_movement": 0.02534601038140538,
+      "head_movement": 370.88832891393577,
+      "eye_movement_x": -4.7816671671500426e-05,
+      "eye_movement_y": -0.1630965440381616
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:18",
+    "metrics": {
+      "eye_openness": 1.5083994748172325,
+      "blink_rate": 0,
+      "mouth_openness": 0.9016715138794827,
+      "mouth_movement": 0.012022817683736364,
+      "head_movement": 326.33808156303274,
+      "eye_movement_x": 0.023210966442026863,
+      "eye_movement_y": -0.10316897332598804
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:20",
+    "metrics": {
+      "eye_openness": 1.4940590033025614,
+      "blink_rate": 0,
+      "mouth_openness": 0.9136943315632191,
+      "mouth_movement": 0.012022817683736364,
+      "head_movement": 360.88687502445913,
+      "eye_movement_x": -0.0009853945183915986,
+      "eye_movement_y": -0.14518405846261687
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:22",
+    "metrics": {
+      "eye_openness": 1.5111037575351964,
+      "blink_rate": 0,
+      "mouth_openness": 0.8941766160716077,
+      "mouth_movement": 0.01951771549161141,
+      "head_movement": 368.728306924052,
+      "eye_movement_x": 0.019949098655066437,
+      "eye_movement_y": -0.14274747823572642
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:24",
+    "metrics": {
+      "eye_openness": 1.5051689102105716,
+      "blink_rate": 0,
+      "mouth_openness": 0.888703652083042,
+      "mouth_movement": 0.005472963988565671,
+      "head_movement": 413.9066224827369,
+      "eye_movement_x": 0.004953158170669262,
+      "eye_movement_y": -0.1609205122489384
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:26",
+    "metrics": {
+      "eye_openness": 1.518740575787863,
+      "blink_rate": 0,
+      "mouth_openness": 0.9076438004407291,
+      "mouth_movement": 0.018940148357687092,
+      "head_movement": 346.2758727638869,
+      "eye_movement_x": 0.01630120556038629,
+      "eye_movement_y": -0.14594740201223091
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:28",
+    "metrics": {
+      "eye_openness": 1.5171325366468689,
+      "blink_rate": 0,
+      "mouth_openness": 0.8834324798678733,
+      "mouth_movement": 0.0242113205728558,
+      "head_movement": 375.6526774457878,
+      "eye_movement_x": 0.014524475479787849,
+      "eye_movement_y": -0.16340352624369847
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:30",
+    "metrics": {
+      "eye_openness": 1.5235496211007844,
+      "blink_rate": 0,
+      "mouth_openness": 0.8884238482331487,
+      "mouth_movement": 0.0049913683652753615,
+      "head_movement": 352.93903591391637,
+      "eye_movement_x": 0.07350292176365006,
+      "eye_movement_y": -0.049161751435895094
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:32",
+    "metrics": {
+      "eye_openness": 1.4992484063093399,
+      "blink_rate": 0,
+      "mouth_openness": 0.9020502083526309,
+      "mouth_movement": 0.013626360119482261,
+      "head_movement": 375.19339849768625,
+      "eye_movement_x": -0.007592727264709857,
+      "eye_movement_y": -0.040426396825208544
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:34",
+    "metrics": {
+      "eye_openness": 1.5023018320165642,
+      "blink_rate": 0,
+      "mouth_openness": 0.8888010750507138,
+      "mouth_movement": 0.013249133301917126,
+      "head_movement": 377.0254044032698,
+      "eye_movement_x": 0.00032350760089322657,
+      "eye_movement_y": -0.1760450261612389
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:36",
+    "metrics": {
+      "eye_openness": 1.4901627761008407,
+      "blink_rate": 0,
+      "mouth_openness": 0.9018966653889882,
+      "mouth_movement": 0.013095590338274343,
+      "head_movement": 376.86311301831137,
+      "eye_movement_x": -0.009979657441697966,
+      "eye_movement_y": -0.14081180151558917
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:38",
+    "metrics": {
+      "eye_openness": 1.522219314675452,
+      "blink_rate": 0,
+      "mouth_openness": 0.8890730598775082,
+      "mouth_movement": 0.012823605511479985,
+      "head_movement": 341.4053659575591,
+      "eye_movement_x": 0.05950189576467147,
+      "eye_movement_y": -0.04013190332571716
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:41",
+    "metrics": {
+      "eye_openness": 1.5075997819067406,
+      "blink_rate": 0,
+      "mouth_openness": 0.8949061096486204,
+      "mouth_movement": 0.005833049771112209,
+      "head_movement": 365.8717391824829,
+      "eye_movement_x": 0.02383989654884764,
+      "eye_movement_y": -0.07884437225156161
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:43",
+    "metrics": {
+      "eye_openness": 1.5305423540471594,
+      "blink_rate": 0,
+      "mouth_openness": 0.8877680522085258,
+      "mouth_movement": 0.007138057440094547,
+      "head_movement": 342.07803591129414,
+      "eye_movement_x": 0.05743257087432563,
+      "eye_movement_y": -0.1025247992519068
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:45",
+    "metrics": {
+      "eye_openness": 1.5265767229404663,
+      "blink_rate": 0,
+      "mouth_openness": 0.8877680522085258,
+      "mouth_movement": 0.0,
+      "head_movement": 340.3244579880347,
+      "eye_movement_x": 0.05236544595404591,
+      "eye_movement_y": -0.10739038197264097
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:47",
+    "metrics": {
+      "eye_openness": 1.5165918291698384,
+      "blink_rate": 0,
+      "mouth_openness": 0.8877680522085258,
+      "mouth_movement": 0.0,
+      "head_movement": 319.85576792396904,
+      "eye_movement_x": 0.016083963902855648,
+      "eye_movement_y": -0.16194599476668817
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:49",
+    "metrics": {
+      "eye_openness": 1.5331313573093979,
+      "blink_rate": 0,
+      "mouth_openness": 0.8814799576184943,
+      "mouth_movement": 0.0062880945900315455,
+      "head_movement": 349.62510732730505,
+      "eye_movement_x": 0.07528596126381544,
+      "eye_movement_y": -0.09379807347884864
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:51",
+    "metrics": {
+      "eye_openness": 1.5281296245569123,
+      "blink_rate": 0,
+      "mouth_openness": 0.86609369707546,
+      "mouth_movement": 0.01538626054303427,
+      "head_movement": 1336.4954557724348,
+      "eye_movement_x": 0.04203259036735519,
+      "eye_movement_y": 1.4783321013495445
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:53",
+    "metrics": {
+      "eye_openness": 1.506672103084354,
+      "blink_rate": 0,
+      "mouth_openness": 0.8962871580551768,
+      "mouth_movement": 0.030193460979716757,
+      "head_movement": 3279.3902509844975,
+      "eye_movement_x": 0.0017244889571100782,
+      "eye_movement_y": 0.003213496934793035
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:55",
+    "metrics": {
+      "eye_openness": 1.5084034323864697,
+      "blink_rate": 0,
+      "mouth_openness": 0.9082106328610547,
+      "mouth_movement": 0.011923474805877965,
+      "head_movement": 1942.5797816859988,
+      "eye_movement_x": 0.00907940771334965,
+      "eye_movement_y": -0.19529733528547674
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:57",
+    "metrics": {
+      "eye_openness": 1.4904494000053992,
+      "blink_rate": 0,
+      "mouth_openness": 0.8970755284843819,
+      "mouth_movement": 0.011135104376672866,
+      "head_movement": 1519.637078046157,
+      "eye_movement_x": 0.010860802125408884,
+      "eye_movement_y": -0.11722593137700552
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:27:59",
+    "metrics": {
+      "eye_openness": 1.4844509123661147,
+      "blink_rate": 0,
+      "mouth_openness": 0.9188088894098777,
+      "mouth_movement": 0.021733360925495826,
+      "head_movement": 486.7423194456798,
+      "eye_movement_x": 0.023858494223175816,
+      "eye_movement_y": -0.1196410520348715
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:01",
+    "metrics": {
+      "eye_openness": 1.5014459141005019,
+      "blink_rate": 0,
+      "mouth_openness": 0.9066914658998787,
+      "mouth_movement": 0.012117423509999004,
+      "head_movement": 492.7833945037749,
+      "eye_movement_x": 0.041922695412923074,
+      "eye_movement_y": -0.11194342413133845
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:03",
+    "metrics": {
+      "eye_openness": 1.5101597253919397,
+      "blink_rate": 0,
+      "mouth_openness": 0.8667281372853263,
+      "mouth_movement": 0.03996332861455243,
+      "head_movement": 565.9146487947485,
+      "eye_movement_x": 0.008696221276691408,
+      "eye_movement_y": -0.4160843212548915
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:05",
+    "metrics": {
+      "eye_openness": 1.4889893615723508,
+      "blink_rate": 0,
+      "mouth_openness": 0.8839066153876151,
+      "mouth_movement": 0.017178478102288786,
+      "head_movement": 294.0564795045062,
+      "eye_movement_x": -0.0034199438268361915,
+      "eye_movement_y": -0.16524835104282662
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:07",
+    "metrics": {
+      "eye_openness": 1.5097486082642242,
+      "blink_rate": 0,
+      "mouth_openness": 0.901703545544627,
+      "mouth_movement": 0.017796930157011892,
+      "head_movement": 376.5199932073967,
+      "eye_movement_x": 0.007134138540683651,
+      "eye_movement_y": -0.2283102272226655
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:09",
+    "metrics": {
+      "eye_openness": 1.5057556237574679,
+      "blink_rate": 0,
+      "mouth_openness": 0.907422786938263,
+      "mouth_movement": 0.005719241393635999,
+      "head_movement": 361.33737916892966,
+      "eye_movement_x": 0.05220958376167748,
+      "eye_movement_y": -0.11717818978973002
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:11",
+    "metrics": {
+      "eye_openness": 1.4968383346097272,
+      "blink_rate": 0,
+      "mouth_openness": 0.8898874584512704,
+      "mouth_movement": 0.017535328486992574,
+      "head_movement": 503.2370950136536,
+      "eye_movement_x": -0.001178634944868066,
+      "eye_movement_y": -0.37398371563798105
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:13",
+    "metrics": {
+      "eye_openness": 1.4809883605392575,
+      "blink_rate": 0,
+      "mouth_openness": 0.9029864855286635,
+      "mouth_movement": 0.013099027077393077,
+      "head_movement": 423.0736038369551,
+      "eye_movement_x": -0.015767485384575685,
+      "eye_movement_y": -0.15115635014516268
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:15",
+    "metrics": {
+      "eye_openness": 1.4851360669656628,
+      "blink_rate": 0,
+      "mouth_openness": 0.882885154785628,
+      "mouth_movement": 0.02010133074303544,
+      "head_movement": 370.2608359780077,
+      "eye_movement_x": -2.037228354183814e-05,
+      "eye_movement_y": -0.18049680957797112
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:17",
+    "metrics": {
+      "eye_openness": 1.4970031047577421,
+      "blink_rate": 0,
+      "mouth_openness": 0.8898874584512704,
+      "mouth_movement": 0.007002303665642362,
+      "head_movement": 327.31668674241814,
+      "eye_movement_x": 0.03913379555054959,
+      "eye_movement_y": -0.15385506826063625
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:19",
+    "metrics": {
+      "eye_openness": 1.5083011521910683,
+      "blink_rate": 0,
+      "mouth_openness": 0.8894685388274581,
+      "mouth_movement": 0.0004189196238122417,
+      "head_movement": 368.63232755648903,
+      "eye_movement_x": 0.023535069297664978,
+      "eye_movement_y": -0.2538213983247486
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:21",
+    "metrics": {
+      "eye_openness": 1.5161525361368597,
+      "blink_rate": 0,
+      "mouth_openness": 0.8832164437814115,
+      "mouth_movement": 0.006252095046046624,
+      "head_movement": 353.1928667551129,
+      "eye_movement_x": 0.03784185418383139,
+      "eye_movement_y": -0.1658588851393298
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:23",
+    "metrics": {
+      "eye_openness": 1.5051083384166946,
+      "blink_rate": 0,
+      "mouth_openness": 0.895225259620529,
+      "mouth_movement": 0.012008815839117504,
+      "head_movement": 316.8494882320838,
+      "eye_movement_x": 0.011567922574040764,
+      "eye_movement_y": -0.1838133157495349
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:25",
+    "metrics": {
+      "eye_openness": 1.5037061869396617,
+      "blink_rate": 0,
+      "mouth_openness": 0.8832164437814115,
+      "mouth_movement": 0.012008815839117504,
+      "head_movement": 303.7175808522154,
+      "eye_movement_x": 0.012283990746237141,
+      "eye_movement_y": -0.17839439867214105
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:28",
+    "metrics": {
+      "eye_openness": 1.496849771449139,
+      "blink_rate": 0,
+      "mouth_openness": 0.8884776060077951,
+      "mouth_movement": 0.00526116222638362,
+      "head_movement": 303.25719132777675,
+      "eye_movement_x": 0.01131459693555443,
+      "eye_movement_y": -0.1481615608589899
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:30",
+    "metrics": {
+      "eye_openness": 1.501301620792414,
+      "blink_rate": 0,
+      "mouth_openness": 0.9010868700414016,
+      "mouth_movement": 0.012609264033606515,
+      "head_movement": 348.86125133916863,
+      "eye_movement_x": 0.007983462620505088,
+      "eye_movement_y": -0.21531617290013735
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:32",
+    "metrics": {
+      "eye_openness": 1.5136553835090958,
+      "blink_rate": 0,
+      "mouth_openness": 0.8888289301534851,
+      "mouth_movement": 0.012257939887916569,
+      "head_movement": 341.07735261906356,
+      "eye_movement_x": 0.022746893904904697,
+      "eye_movement_y": -0.14710439415990556
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:34",
+    "metrics": {
+      "eye_openness": 1.506539622514232,
+      "blink_rate": 0,
+      "mouth_openness": 0.8890422829879469,
+      "mouth_movement": 0.00021335283446177744,
+      "head_movement": 331.8148322575818,
+      "eye_movement_x": 0.009585314408501865,
+      "eye_movement_y": -0.3031167332588948
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:36",
+    "metrics": {
+      "eye_openness": 1.505042409088938,
+      "blink_rate": 0,
+      "mouth_openness": 0.8701363827857216,
+      "mouth_movement": 0.018905900202225268,
+      "head_movement": 286.001239615646,
+      "eye_movement_x": 0.0413784642851091,
+      "eye_movement_y": -0.13278928805131504
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:38",
+    "metrics": {
+      "eye_openness": 1.5240520357062266,
+      "blink_rate": 0,
+      "mouth_openness": 0.8763911963082474,
+      "mouth_movement": 0.006254813522525771,
+      "head_movement": 416.85462218156493,
+      "eye_movement_x": 0.03493501412746823,
+      "eye_movement_y": -3.090150372029016
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:40",
+    "metrics": {
+      "eye_openness": 1.5013881940933125,
+      "blink_rate": 0,
+      "mouth_openness": 0.895225259620529,
+      "mouth_movement": 0.018834063312281657,
+      "head_movement": 285.978428450791,
+      "eye_movement_x": 0.029990084874237526,
+      "eye_movement_y": -0.1652099010773823
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:42",
+    "metrics": {
+      "eye_openness": 1.4989343101822625,
+      "blink_rate": 0,
+      "mouth_openness": 0.8885632960879161,
+      "mouth_movement": 0.006661963532612947,
+      "head_movement": 295.2823862068153,
+      "eye_movement_x": 0.03047290579863585,
+      "eye_movement_y": -0.140190558789454
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:44",
+    "metrics": {
+      "eye_openness": 1.510557520351115,
+      "blink_rate": 0,
+      "mouth_openness": 0.8891234555305468,
+      "mouth_movement": 0.0005601594426307699,
+      "head_movement": 381.18111577958547,
+      "eye_movement_x": 0.034111207534500504,
+      "eye_movement_y": -0.17661204179739778
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:46",
+    "metrics": {
+      "eye_openness": 1.5003147214605719,
+      "blink_rate": 0,
+      "mouth_openness": 0.9010868700414016,
+      "mouth_movement": 0.011963414510854808,
+      "head_movement": 378.43312279390443,
+      "eye_movement_x": 0.014777258741128535,
+      "eye_movement_y": 1.2311494642664171
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:48",
+    "metrics": {
+      "eye_openness": 1.502830812704634,
+      "blink_rate": 0,
+      "mouth_openness": 0.8891234555305468,
+      "mouth_movement": 0.011963414510854808,
+      "head_movement": 325.4699238072229,
+      "eye_movement_x": 0.017442780964814122,
+      "eye_movement_y": -0.14002680815416094
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:50",
+    "metrics": {
+      "eye_openness": 1.5002461340011866,
+      "blink_rate": 0,
+      "mouth_openness": 0.8736069992476864,
+      "mouth_movement": 0.015516456282860469,
+      "head_movement": 1319.2822570777107,
+      "eye_movement_x": 0.02924772240762629,
+      "eye_movement_y": -0.7912216135003506
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:52",
+    "metrics": {
+      "eye_openness": 1.4985271315868032,
+      "blink_rate": 0,
+      "mouth_openness": 0.8824613846166908,
+      "mouth_movement": 0.008854385369004403,
+      "head_movement": 1264.0477740232914,
+      "eye_movement_x": 0.017336208578227232,
+      "eye_movement_y": -0.14663525434836414
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:54",
+    "metrics": {
+      "eye_openness": 1.4931373426479597,
+      "blink_rate": 0,
+      "mouth_openness": 0.9062548638360803,
+      "mouth_movement": 0.02379347921938957,
+      "head_movement": 502.12192406931985,
+      "eye_movement_x": 0.002268030463152861,
+      "eye_movement_y": -0.14311252250827242
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:56",
+    "metrics": {
+      "eye_openness": 1.4963832322736996,
+      "blink_rate": 0,
+      "mouth_openness": 0.9062548638360803,
+      "mouth_movement": 0.0,
+      "head_movement": 363.3601930694087,
+      "eye_movement_x": 0.01621780458064342,
+      "eye_movement_y": -0.10144147808859331
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:28:58",
+    "metrics": {
+      "eye_openness": 1.5043098723947248,
+      "blink_rate": 0,
+      "mouth_openness": 0.9121181462027446,
+      "mouth_movement": 0.005863282366664224,
+      "head_movement": 417.69551181437146,
+      "eye_movement_x": 0.012366392518531928,
+      "eye_movement_y": -0.29250888767031236
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:00",
+    "metrics": {
+      "eye_openness": 1.4957179336151265,
+      "blink_rate": 0,
+      "mouth_openness": 0.8998125886176128,
+      "mouth_movement": 0.012305557585131743,
+      "head_movement": 329.5859005124263,
+      "eye_movement_x": 0.01400941836437223,
+      "eye_movement_y": -0.13902812800811135
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:02",
+    "metrics": {
+      "eye_openness": 1.4955636156964225,
+      "blink_rate": 0,
+      "mouth_openness": 0.9377664505857233,
+      "mouth_movement": 0.03795386196811046,
+      "head_movement": 314.3717784315667,
+      "eye_movement_x": 0.0025498821987125424,
+      "eye_movement_y": -0.1592336019884347
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:04",
+    "metrics": {
+      "eye_openness": 1.5006123046111133,
+      "blink_rate": 0,
+      "mouth_openness": 0.9188108296673474,
+      "mouth_movement": 0.01895562091837588,
+      "head_movement": 335.2238959570366,
+      "eye_movement_x": 0.00964334289111262,
+      "eye_movement_y": -0.1693420726766409
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:06",
+    "metrics": {
+      "eye_openness": 1.5029895111198306,
+      "blink_rate": 0,
+      "mouth_openness": 0.8998125886176128,
+      "mouth_movement": 0.018998241049734577,
+      "head_movement": 335.51272685403313,
+      "eye_movement_x": 0.02344781467405886,
+      "eye_movement_y": -0.17075107199203013
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:08",
+    "metrics": {
+      "eye_openness": 1.5074205647861803,
+      "blink_rate": 0,
+      "mouth_openness": 0.8931578122225542,
+      "mouth_movement": 0.006654776395058626,
+      "head_movement": 408.16133713589915,
+      "eye_movement_x": 0.03948749548285079,
+      "eye_movement_y": -0.2132948954015344
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:10",
+    "metrics": {
+      "eye_openness": 1.5075707620701617,
+      "blink_rate": 0,
+      "mouth_openness": 0.9012118052769293,
+      "mouth_movement": 0.008053993054375153,
+      "head_movement": 1265.3320854721533,
+      "eye_movement_x": 0.029310869599315177,
+      "eye_movement_y": -0.2672555606666672
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:12",
+    "metrics": {
+      "eye_openness": 1.4952057415185254,
+      "blink_rate": 0,
+      "mouth_openness": 0.8967493646994584,
+      "mouth_movement": 0.004462440577470916,
+      "head_movement": 407.16391495698116,
+      "eye_movement_x": 0.02360478368838024,
+      "eye_movement_y": -0.16029193689655166
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:14",
+    "metrics": {
+      "eye_openness": 1.5069037062432662,
+      "blink_rate": 0,
+      "mouth_openness": 0.9098077953405361,
+      "mouth_movement": 0.0130584306410777,
+      "head_movement": 413.3547544320917,
+      "eye_movement_x": 0.025062174794374573,
+      "eye_movement_y": 1.2273921925582918
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:16",
+    "metrics": {
+      "eye_openness": 1.5016610618652841,
+      "blink_rate": 0,
+      "mouth_openness": 0.8904109467066994,
+      "mouth_movement": 0.019396848633836727,
+      "head_movement": 391.02250985851055,
+      "eye_movement_x": 0.0021371750712880313,
+      "eye_movement_y": -0.15029311297905423
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:19",
+    "metrics": {
+      "eye_openness": 1.4880629291525098,
+      "blink_rate": 0,
+      "mouth_openness": 0.9025081193224657,
+      "mouth_movement": 0.01209717261576626,
+      "head_movement": 432.83949950176645,
+      "eye_movement_x": 0.01878050110254837,
+      "eye_movement_y": -0.08819792030229377
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:21",
+    "metrics": {
+      "eye_openness": 1.508219064284631,
+      "blink_rate": 0,
+      "mouth_openness": 0.8651041745252259,
+      "mouth_movement": 0.03740394479723974,
+      "head_movement": 334.2010075473252,
+      "eye_movement_x": 0.007476651945942638,
+      "eye_movement_y": -0.20395370190532125
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:23",
+    "metrics": {
+      "eye_openness": 1.5105450770897737,
+      "blink_rate": 0,
+      "mouth_openness": 0.8956848693329746,
+      "mouth_movement": 0.03058069480774872,
+      "head_movement": 490.28020341106696,
+      "eye_movement_x": 0.011154626929433673,
+      "eye_movement_y": -0.2879269251242444
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:25",
+    "metrics": {
+      "eye_openness": 1.5044759104008318,
+      "blink_rate": 0,
+      "mouth_openness": 0.8963759850398285,
+      "mouth_movement": 0.0006911157068538731,
+      "head_movement": 4042.467645074217,
+      "eye_movement_x": 0.024800527371393592,
+      "eye_movement_y": -0.0949479012207999
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:27",
+    "metrics": {
+      "eye_openness": 1.4873950448637163,
+      "blink_rate": 0,
+      "mouth_openness": 0.8693125992014349,
+      "mouth_movement": 0.027063385838393628,
+      "head_movement": 1971.5290907721223,
+      "eye_movement_x": 0.014169533260079813,
+      "eye_movement_y": -0.11549499571146485
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:29",
+    "metrics": {
+      "eye_openness": 1.4838489460616495,
+      "blink_rate": 0,
+      "mouth_openness": 0.8974537041450066,
+      "mouth_movement": 0.028141104943571693,
+      "head_movement": 2643.4522300091326,
+      "eye_movement_x": 0.01733771761108653,
+      "eye_movement_y": -0.16889108521584564
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:31",
+    "metrics": {
+      "eye_openness": 1.492321454354839,
+      "blink_rate": 0,
+      "mouth_openness": 0.8961102210419396,
+      "mouth_movement": 0.001343483103066978,
+      "head_movement": 1509.1927007368358,
+      "eye_movement_x": 0.011091164332937315,
+      "eye_movement_y": -0.2536105392961429
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:33",
+    "metrics": {
+      "eye_openness": 1.4964253042484723,
+      "blink_rate": 0,
+      "mouth_openness": 0.9252576397285279,
+      "mouth_movement": 0.029147418686588322,
+      "head_movement": 1057.571341002721,
+      "eye_movement_x": 0.012617635253728002,
+      "eye_movement_y": 0.04358197229177811
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:35",
+    "metrics": {
+      "eye_openness": 1.4884856381301659,
+      "blink_rate": 0,
+      "mouth_openness": 0.9025756046384452,
+      "mouth_movement": 0.02268203509008271,
+      "head_movement": 883.6070725618584,
+      "eye_movement_x": 0.012027060806666186,
+      "eye_movement_y": -0.12824142066382896
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:37",
+    "metrics": {
+      "eye_openness": 1.5242154603218612,
+      "blink_rate": 0,
+      "mouth_openness": 0.8975274563489885,
+      "mouth_movement": 0.005048148289456766,
+      "head_movement": 1039.024521041942,
+      "eye_movement_x": 0.05761866586230043,
+      "eye_movement_y": -0.3951207614644932
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:39",
+    "metrics": {
+      "eye_openness": 1.5015227286636654,
+      "blink_rate": 0,
+      "mouth_openness": 0.8802474276762954,
+      "mouth_movement": 0.01728002867269307,
+      "head_movement": 668.022992105258,
+      "eye_movement_x": 0.02262422648570168,
+      "eye_movement_y": -0.12326817286504266
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:41",
+    "metrics": {
+      "eye_openness": 1.5006402115628417,
+      "blink_rate": 0,
+      "mouth_openness": 0.885119947538117,
+      "mouth_movement": 0.004872519861821578,
+      "head_movement": 357.55004043227405,
+      "eye_movement_x": 0.01696342514341432,
+      "eye_movement_y": -0.14736220126167238
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:43",
+    "metrics": {
+      "eye_openness": 1.4816383513962204,
+      "blink_rate": 0,
+      "mouth_openness": 0.8781591854633334,
+      "mouth_movement": 0.0069607620747835774,
+      "head_movement": 370.83459736713695,
+      "eye_movement_x": -0.0031831603265463472,
+      "eye_movement_y": -0.1844125714277399
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:45",
+    "metrics": {
+      "eye_openness": 1.497175644333898,
+      "blink_rate": 0,
+      "mouth_openness": 0.9072881089633749,
+      "mouth_movement": 0.02912892350004148,
+      "head_movement": 383.76947621379077,
+      "eye_movement_x": 0.022261673285939296,
+      "eye_movement_y": -0.15754959534291496
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:47",
+    "metrics": {
+      "eye_openness": 1.4937358902618159,
+      "blink_rate": 0,
+      "mouth_openness": 0.8830721902776452,
+      "mouth_movement": 0.024215918685729698,
+      "head_movement": 400.3153728830776,
+      "eye_movement_x": 0.009905746577704315,
+      "eye_movement_y": -0.18597408725081233
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:49",
+    "metrics": {
+      "eye_openness": 1.4850203589008473,
+      "blink_rate": 0,
+      "mouth_openness": 0.8781591854633334,
+      "mouth_movement": 0.004913004814311783,
+      "head_movement": 443.918424711433,
+      "eye_movement_x": 0.0065105904760674755,
+      "eye_movement_y": -0.04278240272976728
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:51",
+    "metrics": {
+      "eye_openness": 1.4787469778974411,
+      "blink_rate": 0,
+      "mouth_openness": 0.9036403720834144,
+      "mouth_movement": 0.02548118662008103,
+      "head_movement": 661.5690738814848,
+      "eye_movement_x": 0.015091159651206226,
+      "eye_movement_y": -0.14415028613574302
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:53",
+    "metrics": {
+      "eye_openness": 1.4845706930422355,
+      "blink_rate": 0,
+      "mouth_openness": 0.913897458030107,
+      "mouth_movement": 0.010257085946692612,
+      "head_movement": 514.7385445452956,
+      "eye_movement_x": 0.015424565743394365,
+      "eye_movement_y": -0.15611433715782894
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:55",
+    "metrics": {
+      "eye_openness": 1.5007838981920043,
+      "blink_rate": 0,
+      "mouth_openness": 0.9138115364371864,
+      "mouth_movement": 8.592159292064583e-05,
+      "head_movement": 414.52129091774526,
+      "eye_movement_x": 0.05900324095787262,
+      "eye_movement_y": -0.10667520065353558
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:29:57",
+    "metrics": {
+      "eye_openness": 1.4845411862561746,
+      "blink_rate": 0,
+      "mouth_openness": 0.8777410453011925,
+      "mouth_movement": 0.03607049113599392,
+      "head_movement": 453.7885106249335,
+      "eye_movement_x": 0.021980958724634132,
+      "eye_movement_y": -0.11918970719569673
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:30:00",
+    "metrics": {
+      "eye_openness": 1.5135016537937789,
+      "blink_rate": 0,
+      "mouth_openness": 0.862338143587602,
+      "mouth_movement": 0.015402901713590489,
+      "head_movement": 1184.7180271768789,
+      "eye_movement_x": 0.057392926751734887,
+      "eye_movement_y": -0.12569176865813547
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:30:02",
+    "metrics": {
+      "eye_openness": 1.5201715077508249,
+      "blink_rate": 0,
+      "mouth_openness": 0.8810109607755842,
+      "mouth_movement": 0.018672817187982194,
+      "head_movement": 423.25390923113486,
+      "eye_movement_x": 0.07554199306047901,
+      "eye_movement_y": -0.06646046132588143
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:30:04",
+    "metrics": {
+      "eye_openness": 1.5319801923910634,
+      "blink_rate": 0,
+      "mouth_openness": 0.8760201374677954,
+      "mouth_movement": 0.004990823307788772,
+      "head_movement": 356.20385847276776,
+      "eye_movement_x": 0.06609671117767477,
+      "eye_movement_y": -0.10798026772127033
+    }
+  },
+  {
+    "timestamp": "2024-11-01 14:30:06",
+    "metrics": {
+      "eye_openness": 1.5316533547201128,
+      "blink_rate": 0,
+      "mouth_openness": 0.8922563509717395,
+      "mouth_movement": 0.016236213503944108,
+      "head_movement": 439.2790479852669,
+      "eye_movement_x": 0.061374535663640976,
+      "eye_movement_y": -0.13146372758687222
+    }
+  }
+]

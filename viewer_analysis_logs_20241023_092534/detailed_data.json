@@ -1,0 +1,258 @@
+[
+  {
+    "timestamp": "2024-10-23 09:25:36",
+    "facial_metrics": {
+      "mar": 0.9251180256249858,
+      "movement": 868.4903237242205,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:39",
+    "facial_metrics": {
+      "mar": 0.9083337142572244,
+      "movement": 516.0326836168513,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:41",
+    "facial_metrics": {
+      "mar": 0.9525813044840548,
+      "movement": 1067.8731666466404,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:43",
+    "facial_metrics": {
+      "mar": 0.9154021536652025,
+      "movement": 1007.9501086209525,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:45",
+    "facial_metrics": {
+      "mar": 0.9999999848917778,
+      "movement": 3960.8166599928745,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:47",
+    "facial_metrics": {
+      "mar": 0.9146767952780925,
+      "movement": 3158.6961861266827,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:49",
+    "facial_metrics": {
+      "mar": 1.0089515723867442,
+      "movement": 2658.201410571904,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:51",
+    "facial_metrics": {
+      "mar": 1.0367656285143272,
+      "movement": 1515.9352735626237,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:53",
+    "facial_metrics": {
+      "mar": 0.933743805002668,
+      "movement": 942.4850978195101,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:55",
+    "facial_metrics": {
+      "mar": 0.8852606927050651,
+      "movement": 2329.944804750159,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:57",
+    "facial_metrics": {
+      "mar": 1.0987366223591635,
+      "movement": 1857.9829725451164,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:25:59",
+    "facial_metrics": {
+      "mar": 1.019599982717936,
+      "movement": 4565.378259124694,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:26:01",
+    "facial_metrics": {
+      "mar": 0.6945163232288829,
+      "movement": 4013.9751240844867,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:26:03",
+    "facial_metrics": {
+      "mar": 0.9338403700169747,
+      "movement": 3029.161929068573,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:26:05",
+    "facial_metrics": {
+      "mar": 0.9876692832105323,
+      "movement": 1695.6595744140025,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  },
+  {
+    "timestamp": "2024-10-23 09:26:07",
+    "facial_metrics": {
+      "mar": 0.9945583891187076,
+      "movement": 1530.9981970922443,
+      "ear": 0
+    },
+    "emotional_states": {
+      "neutral": 0,
+      "happy": 0.0,
+      "surprised": 0,
+      "focused": 0,
+      "distracted": 0,
+      "fatigued": 0
+    }
+  }
+]

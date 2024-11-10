@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2024-10-28 13:21:18",
+    "metrics": {
+      "eye_openness": 1.6457533370437873,
+      "blink_rate": 0,
+      "mouth_openness": 0.8233085677551653,
+      "mouth_movement": 0,
+      "head_movement": 13460.665610512826
+    }
+  },
+  {
+    "timestamp": "2024-10-28 13:21:20",
+    "metrics": {
+      "eye_openness": 1.6477759579604139,
+      "blink_rate": 0,
+      "mouth_openness": 0.8758214580686853,
+      "mouth_movement": 0.05251289031352002,
+      "head_movement": 11580.049702475259
+    }
+  },
+  {
+    "timestamp": "2024-10-28 13:21:22",
+    "metrics": {
+      "eye_openness": 1.6251622769676974,
+      "blink_rate": 0,
+      "mouth_openness": 0.8581558843545238,
+      "mouth_movement": 0.017665573714161442,
+      "head_movement": 17474.62800238458
+    }
+  },
+  {
+    "timestamp": "2024-10-28 13:21:24",
+    "metrics": {
+      "eye_openness": 1.7747676558404273,
+      "blink_rate": 0,
+      "mouth_openness": 0.7873090394900905,
+      "mouth_movement": 0.07084684486443338,
+      "head_movement": 17466.54933912395
+    }
+  }
+]

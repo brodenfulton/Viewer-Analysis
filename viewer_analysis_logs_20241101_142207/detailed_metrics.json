@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2024-11-01 14:22:11",
+    "metrics": {
+      "eye_openness": 2.1034625646492326,
+      "blink_rate": 0,
+      "mouth_openness": 0.6936688372893909,
+      "mouth_movement": 0,
+      "head_movement": 0,
+      "eye_movement_x": -1.349188763830173,
+      "eye_movement_y": -2.3654343011558145
+    }
+  }
+]
