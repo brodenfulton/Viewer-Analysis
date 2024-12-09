@@ -1,0 +1,444 @@
+[
+  {
+    "timestamp": "2024-11-19 23:20:12",
+    "metrics": {
+      "eye_openness": 1.547331934473141,
+      "blink_rate": 0,
+      "mouth_openness": 0.8874276344590629,
+      "mouth_movement": 0,
+      "head_movement": 1412.0250928994797,
+      "eye_movement_x": -0.013903123543728212,
+      "eye_movement_y": -0.0540652866886434,
+      "shoulder_movement": 8.213591931880694,
+      "arm_movement": 947.5295176907964,
+      "upper_body_rotation": 0.018708296197559687,
+      "left_arm_angle": 104.91887756938326,
+      "right_arm_angle": 12.90970119484427
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:14",
+    "metrics": {
+      "eye_openness": 1.5218421374531264,
+      "blink_rate": 0,
+      "mouth_openness": 1.0042833363521284,
+      "mouth_movement": 0.11685570189306549,
+      "head_movement": 9412.432035658852,
+      "eye_movement_x": -0.001964797824583938,
+      "eye_movement_y": 0.09720099356087014,
+      "shoulder_movement": 9.245040190466598,
+      "arm_movement": 143.9353287595124,
+      "upper_body_rotation": 0.07859649909862473,
+      "left_arm_angle": 156.50174174385165,
+      "right_arm_angle": 158.5616392048625
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:16",
+    "metrics": {
+      "eye_openness": 1.5260473930470355,
+      "blink_rate": 0,
+      "mouth_openness": 0.8682536617207419,
+      "mouth_movement": 0.1360296746313865,
+      "head_movement": 640.0294827997291,
+      "eye_movement_x": -0.025254955979754776,
+      "eye_movement_y": -0.03225406107312089,
+      "shoulder_movement": 3.0,
+      "arm_movement": 40.433260718462115,
+      "upper_body_rotation": 0.13511401510158735,
+      "left_arm_angle": 153.49409949931183,
+      "right_arm_angle": 140.90902622382328
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:18",
+    "metrics": {
+      "eye_openness": 1.5238455011343959,
+      "blink_rate": 0,
+      "mouth_openness": 0.9070997387028256,
+      "mouth_movement": 0.038846076982083644,
+      "head_movement": 746.9377730381588,
+      "eye_movement_x": -0.02622144723051147,
+      "eye_movement_y": 0.009991647177704443,
+      "shoulder_movement": 2.0,
+      "arm_movement": 28.047080323302136,
+      "upper_body_rotation": 0.10458819810830457,
+      "left_arm_angle": 162.87700596499744,
+      "right_arm_angle": 151.9392242300348
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:20",
+    "metrics": {
+      "eye_openness": 1.5230832150984221,
+      "blink_rate": 0,
+      "mouth_openness": 0.9159291168019723,
+      "mouth_movement": 0.008829378099146745,
+      "head_movement": 709.2729791063085,
+      "eye_movement_x": -0.038843082855996795,
+      "eye_movement_y": 0.019485228737953445,
+      "shoulder_movement": 0.0,
+      "arm_movement": 22.660936413601405,
+      "upper_body_rotation": 0.10922524773028007,
+      "left_arm_angle": 146.64728717590833,
+      "right_arm_angle": 152.89668781144715
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:22",
+    "metrics": {
+      "eye_openness": 1.5226581736746192,
+      "blink_rate": 0,
+      "mouth_openness": 0.944601664877448,
+      "mouth_movement": 0.0286725480754757,
+      "head_movement": 604.9224145414054,
+      "eye_movement_x": -0.04889873680498099,
+      "eye_movement_y": -0.013183955402651418,
+      "shoulder_movement": 1.0,
+      "arm_movement": 64.44173596736235,
+      "upper_body_rotation": 0.1104248154566628,
+      "left_arm_angle": 153.3845558386106,
+      "right_arm_angle": 157.36704709205722
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:24",
+    "metrics": {
+      "eye_openness": 1.522155733080798,
+      "blink_rate": 0,
+      "mouth_openness": 0.925334492505481,
+      "mouth_movement": 0.019267172371966956,
+      "head_movement": 943.5270948249695,
+      "eye_movement_x": -0.04557919439184967,
+      "eye_movement_y": -0.040454285125495586,
+      "shoulder_movement": 5.8863495173726745,
+      "arm_movement": 195.64254638855928,
+      "upper_body_rotation": 0.09913596228308214,
+      "left_arm_angle": 162.03138931674818,
+      "right_arm_angle": 131.82222902539735
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:26",
+    "metrics": {
+      "eye_openness": 1.54475146176635,
+      "blink_rate": 0,
+      "mouth_openness": 0.908241541665762,
+      "mouth_movement": 0.017092950839719068,
+      "head_movement": 640.7170746504096,
+      "eye_movement_x": -0.05853932875752917,
+      "eye_movement_y": -0.03821848148930223,
+      "shoulder_movement": 4.0,
+      "arm_movement": 174.55677745020176,
+      "upper_body_rotation": 0.09617250062950827,
+      "left_arm_angle": 170.66259529357052,
+      "right_arm_angle": 173.48259853678178
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:28",
+    "metrics": {
+      "eye_openness": 1.5469767545657265,
+      "blink_rate": 0,
+      "mouth_openness": 0.8921798688155241,
+      "mouth_movement": 0.01606167285023785,
+      "head_movement": 559.1568991289514,
+      "eye_movement_x": -0.0546873154246675,
+      "eye_movement_y": -0.02134796379061173,
+      "shoulder_movement": 2.0,
+      "arm_movement": 42.04899821080649,
+      "upper_body_rotation": 0.06738473725195349,
+      "left_arm_angle": 179.4093238463354,
+      "right_arm_angle": 34.26372590232147
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:30",
+    "metrics": {
+      "eye_openness": 1.5633289926688898,
+      "blink_rate": 0,
+      "mouth_openness": 0.9297313722985436,
+      "mouth_movement": 0.0375515034830195,
+      "head_movement": 646.4915004712915,
+      "eye_movement_x": -0.04130508549867605,
+      "eye_movement_y": 0.025670191100582048,
+      "shoulder_movement": 2.0,
+      "arm_movement": 113.05466240044424,
+      "upper_body_rotation": 0.06382101920661995,
+      "left_arm_angle": 7.164668889918543,
+      "right_arm_angle": 29.956803966282873
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:32",
+    "metrics": {
+      "eye_openness": 1.5451208960130807,
+      "blink_rate": 0,
+      "mouth_openness": 0.9315196759334721,
+      "mouth_movement": 0.0017883036349284342,
+      "head_movement": 597.3871175159354,
+      "eye_movement_x": -0.06113721300202665,
+      "eye_movement_y": 0.014186209637455106,
+      "shoulder_movement": 10.23606797749979,
+      "arm_movement": 60.70137505343129,
+      "upper_body_rotation": 0.08973941481082306,
+      "left_arm_angle": 6.307908363349514,
+      "right_arm_angle": 22.346733914550438
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:34",
+    "metrics": {
+      "eye_openness": 1.5499140292372076,
+      "blink_rate": 0,
+      "mouth_openness": 0.8721202060204749,
+      "mouth_movement": 0.05939946991299716,
+      "head_movement": 574.6493148295231,
+      "eye_movement_x": -0.05476210646235712,
+      "eye_movement_y": -0.012332136892892327,
+      "shoulder_movement": 7.0,
+      "arm_movement": 453.71971503242094,
+      "upper_body_rotation": 0.09519994078569975,
+      "left_arm_angle": 18.977544936151364,
+      "right_arm_angle": 33.0020024673978
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:36",
+    "metrics": {
+      "eye_openness": 1.536312759676001,
+      "blink_rate": 0,
+      "mouth_openness": 0.8779676134624319,
+      "mouth_movement": 0.005847407441956998,
+      "head_movement": 577.4882242991558,
+      "eye_movement_x": -0.06079501932103954,
+      "eye_movement_y": -0.035091606021881945,
+      "shoulder_movement": 2.414213562373095,
+      "arm_movement": 261.1909317967308,
+      "upper_body_rotation": 0.09812836310801987,
+      "left_arm_angle": 166.03943779822603,
+      "right_arm_angle": 26.262169909796718
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:38",
+    "metrics": {
+      "eye_openness": 1.5403502965864913,
+      "blink_rate": 0,
+      "mouth_openness": 0.9157370797322345,
+      "mouth_movement": 0.0377694662698026,
+      "head_movement": 668.6313683240909,
+      "eye_movement_x": -0.06371621356122817,
+      "eye_movement_y": -0.049493597102970945,
+      "shoulder_movement": 0.0,
+      "arm_movement": 151.40920490677073,
+      "upper_body_rotation": 0.09579512530758698,
+      "left_arm_angle": 12.322576041973688,
+      "right_arm_angle": 19.97705734481011
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:40",
+    "metrics": {
+      "eye_openness": 1.556111836638387,
+      "blink_rate": 0,
+      "mouth_openness": 0.8925639150899924,
+      "mouth_movement": 0.02317316464224206,
+      "head_movement": 629.4449574743596,
+      "eye_movement_x": -0.053785933296732015,
+      "eye_movement_y": 0.0030440866232917196,
+      "shoulder_movement": 2.0,
+      "arm_movement": 87.8525879112504,
+      "upper_body_rotation": 0.0845217658129078,
+      "left_arm_angle": 7.3264387329844505,
+      "right_arm_angle": 28.049123598591223
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:42",
+    "metrics": {
+      "eye_openness": 1.5532518521206604,
+      "blink_rate": 0,
+      "mouth_openness": 0.8602325147749842,
+      "mouth_movement": 0.03233140031500825,
+      "head_movement": 651.3780132441588,
+      "eye_movement_x": -0.059005852685564825,
+      "eye_movement_y": -0.014916161284396325,
+      "shoulder_movement": 5.0,
+      "arm_movement": 355.5907937551598,
+      "upper_body_rotation": 0.06898933495292232,
+      "left_arm_angle": 8.677487310943519,
+      "right_arm_angle": 55.604995193381946
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:44",
+    "metrics": {
+      "eye_openness": 1.5461719361152053,
+      "blink_rate": 0,
+      "mouth_openness": 0.8783971034993207,
+      "mouth_movement": 0.01816458872433646,
+      "head_movement": 630.174529088915,
+      "eye_movement_x": -0.06711112014988678,
+      "eye_movement_y": 0.02921491529572085,
+      "shoulder_movement": 6.0,
+      "arm_movement": 846.2885886244217,
+      "upper_body_rotation": 0.06832522850373525,
+      "left_arm_angle": 160.74419139879407,
+      "right_arm_angle": 161.68874598333804
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:46",
+    "metrics": {
+      "eye_openness": 1.5306951425318611,
+      "blink_rate": 0,
+      "mouth_openness": 0.9072018919530962,
+      "mouth_movement": 0.028804788453775543,
+      "head_movement": 634.2858369238319,
+      "eye_movement_x": -0.0746402548501208,
+      "eye_movement_y": -0.0085577319812398,
+      "shoulder_movement": 3.0,
+      "arm_movement": 82.40731918644826,
+      "upper_body_rotation": 0.0642113611491607,
+      "left_arm_angle": 9.753936644652422,
+      "right_arm_angle": 137.74431822711827
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:48",
+    "metrics": {
+      "eye_openness": 1.5306113660436658,
+      "blink_rate": 0,
+      "mouth_openness": 0.8786538761871544,
+      "mouth_movement": 0.028548015765941792,
+      "head_movement": 693.349537776981,
+      "eye_movement_x": -0.07691126280375714,
+      "eye_movement_y": 0.006274548251740094,
+      "shoulder_movement": 5.0,
+      "arm_movement": 840.0165468253549,
+      "upper_body_rotation": 0.0656198456698177,
+      "left_arm_angle": 6.587011882902481,
+      "right_arm_angle": 147.86767562640244
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:51",
+    "metrics": {
+      "eye_openness": 1.5388606496847432,
+      "blink_rate": 0,
+      "mouth_openness": 0.8332051067872019,
+      "mouth_movement": 0.04544876939995246,
+      "head_movement": 666.1537124506146,
+      "eye_movement_x": -0.0567221008390677,
+      "eye_movement_y": 0.010665044166293937,
+      "shoulder_movement": 3.8284271247461903,
+      "arm_movement": 58.963412487010224,
+      "upper_body_rotation": 0.06452193965353785,
+      "left_arm_angle": 9.627760955228768,
+      "right_arm_angle": 42.02925887465525
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:53",
+    "metrics": {
+      "eye_openness": 1.541091818017256,
+      "blink_rate": 0,
+      "mouth_openness": 0.8760428279230287,
+      "mouth_movement": 0.042837721135826734,
+      "head_movement": 606.2053597157799,
+      "eye_movement_x": -0.05468907945274943,
+      "eye_movement_y": 0.004301280663193976,
+      "shoulder_movement": 3.23606797749979,
+      "arm_movement": 202.833750751481,
+      "upper_body_rotation": 0.06793320523106208,
+      "left_arm_angle": 22.190092313782166,
+      "right_arm_angle": 177.64415061834939
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:55",
+    "metrics": {
+      "eye_openness": 1.5334608779538283,
+      "blink_rate": 0,
+      "mouth_openness": 0.8790871505344873,
+      "mouth_movement": 0.003044322611458594,
+      "head_movement": 878.3199088658182,
+      "eye_movement_x": -0.04577327223960207,
+      "eye_movement_y": 0.02620598709933785,
+      "shoulder_movement": 3.0,
+      "arm_movement": 38.44196993969304,
+      "upper_body_rotation": 0.05436477600398995,
+      "left_arm_angle": 10.406334866416232,
+      "right_arm_angle": 27.043612474389626
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:57",
+    "metrics": {
+      "eye_openness": 1.5360766587790422,
+      "blink_rate": 0,
+      "mouth_openness": 0.9302406586952333,
+      "mouth_movement": 0.05115350816074604,
+      "head_movement": 804.7835094667247,
+      "eye_movement_x": -0.016704097968003997,
+      "eye_movement_y": 0.07119874374164059,
+      "shoulder_movement": 1.0,
+      "arm_movement": 705.6738622085347,
+      "upper_body_rotation": 0.03435887777486336,
+      "left_arm_angle": 135.82454111090843,
+      "right_arm_angle": 162.06949647270218
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:20:59",
+    "metrics": {
+      "eye_openness": 1.5680079170363015,
+      "blink_rate": 0,
+      "mouth_openness": 0.9309387141777311,
+      "mouth_movement": 0.0006980554824977947,
+      "head_movement": 575.4092641682771,
+      "eye_movement_x": -0.053422717261863754,
+      "eye_movement_y": 0.05545222020913534,
+      "shoulder_movement": 4.123105625617661,
+      "arm_movement": 167.62716235980793,
+      "upper_body_rotation": 0.07135214670230176,
+      "left_arm_angle": 7.484761772230315,
+      "right_arm_angle": 173.50762089147827
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:21:01",
+    "metrics": {
+      "eye_openness": 1.5496359201928749,
+      "blink_rate": 0,
+      "mouth_openness": 0.9043816338054834,
+      "mouth_movement": 0.026557080372247688,
+      "head_movement": 582.792460146128,
+      "eye_movement_x": -0.040466882938794975,
+      "eye_movement_y": 0.03667838861122054,
+      "shoulder_movement": 4.23606797749979,
+      "arm_movement": 59.61361112304846,
+      "upper_body_rotation": 0.028986983286205536,
+      "left_arm_angle": 37.47281122114209,
+      "right_arm_angle": 22.954577838786097
+    }
+  },
+  {
+    "timestamp": "2024-11-19 23:21:03",
+    "metrics": {
+      "eye_openness": 1.544056160993778,
+      "blink_rate": 0,
+      "mouth_openness": 0.8928999798535261,
+      "mouth_movement": 0.011481653951957327,
+      "head_movement": 931.1249975823422,
+      "eye_movement_x": -0.03143583284664874,
+      "eye_movement_y": 0.056380851828942945,
+      "shoulder_movement": 3.23606797749979,
+      "arm_movement": 167.719371983587,
+      "upper_body_rotation": 0.08825596288003529,
+      "left_arm_angle": 82.27600628250491,
+      "right_arm_angle": 27.52078686490224
+    }
+  }
+]
